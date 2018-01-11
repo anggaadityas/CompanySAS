@@ -1,0 +1,9 @@
+[11-Jun-2017 12:23:44 Asia/Jakarta] PHP Notice:  Undefined index: uname in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
+[11-Jun-2017 12:23:44 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
+[11-Jun-2017 12:23:44 Asia/Jakarta] PHP Fatal error:  Call to a member function prepare() on null in /home/sinergiadhi/public_html/public/api/controller/login.php on line 19
+[11-Jun-2017 12:25:02 Asia/Jakarta] PHP Notice:  Undefined index: uname in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
+[11-Jun-2017 12:25:02 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
+[11-Jun-2017 12:27:08 Asia/Jakarta] PHP Notice:  Undefined index: uname in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
+[11-Jun-2017 12:27:08 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
+[11-Jun-2017 12:27:21 Asia/Jakarta] PHP Notice:  Undefined index: uname in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
+[11-Jun-2017 12:27:21 Asia/Jakarta] PHP Notice:  Undefined index: pass in /home/sinergiadhi/public_html/public/api/login/index.php on line 8
